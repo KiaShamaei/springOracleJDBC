@@ -1,0 +1,19 @@
+package programs;
+
+public class Test {
+	
+		public static void main(String args[]) {
+			Design f = new Design();
+			int d = f.age;
+			if (d>18) 
+			{
+			System.out.print(f);
+			};
+		}
+	
+}
+
+public class Design {
+	int age = 20 ;
+	
+}

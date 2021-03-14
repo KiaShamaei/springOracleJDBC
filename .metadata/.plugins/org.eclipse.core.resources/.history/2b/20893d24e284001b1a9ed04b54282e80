@@ -1,0 +1,7 @@
+
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521:xe
+spring.jpa.show-sql=true
+spring.jpa.hibernate.ddl-auto=none
+spring.datasource.username=ZSS
+spring.datasource.data-password=12
+spring.datasource.initialization-mode=always

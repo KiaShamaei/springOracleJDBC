@@ -1,0 +1,8 @@
+#spring.h2.console.enabled=true
+#spring.datasource.driver-class-name=org.h2.Driver
+spring.datasource.url=jdbc:oracl:thin:@localhost:1521/orcl
+#MODE=PostgreSQL
+spring.datasource.data-username=ZSS
+spring.datasource.data-password=12
+spring.datasource.initialization-mode=always
+
